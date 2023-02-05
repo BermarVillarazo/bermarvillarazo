@@ -4,8 +4,8 @@ import Intro from './Intro'
 
 import '../css/Navbar.css'
 
-import { CgMenuGridO } from '../../node_modules/react-icons/Cg';
-import { CgMenuGridR } from '../../node_modules/react-icons/Cg';
+import { CgMenuGridO } from 'react-icons/cg';
+import { CgMenuGridR } from 'react-icons/cg';
 
 const Navbar = (props) => {
     const [isOpen, setIsOpen] = useState(false)

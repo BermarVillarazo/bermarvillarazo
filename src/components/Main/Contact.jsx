@@ -2,14 +2,14 @@ import React from 'react'
 
 import '../../css/Main/Contact.css'
 
-import { BsFillArrowUpCircleFill } from 'react-icons/Bs';
+import { BsFillArrowUpCircleFill } from 'react-icons/bs';
 
-import { BsFacebook } from 'react-icons/Bs';
-import { SiGmail } from 'react-icons/Si';
-import { BsGithub } from 'react-icons/Bs';
-import { SiFiverr } from 'react-icons/Si';
-import { BsLinkedin } from 'react-icons/Bs';
-import { BsTelegram } from 'react-icons/Bs';
+import { BsFacebook } from 'react-icons/bs';
+import { SiGmail } from 'react-icons/si';
+import { BsGithub } from 'react-icons/bs';
+import { SiFiverr } from 'react-icons/si';
+import { BsLinkedin } from 'react-icons/bs';
+import { BsTelegram } from 'react-icons/bs';
 
 const Contact = (props) => {
     const { GMAIL } = props
